@@ -1,0 +1,46 @@
+
+body ul{
+    list-style: none;
+    padding-left: 0px;
+    display: flex;
+    justify-content: space-between;
+    background-color: rgba(0, 2, 128, 0.473);
+    line-height: 20px;
+    height: auto;
+    text-align: center;
+    width: auto;
+}
+body{
+    background-color: coral;
+}
+nav#hover{
+    background-color: #fff;
+}
+#text-image:hover{
+    filter: invert(100%);
+}
+main p{
+    background-color: brown;
+}
+nav>p{
+    text-align: center;
+}
+#yes{
+    text-align: center;
+}
+#yes:hover {
+    color: green;
+}
+h1:hover {
+    color: #fff;;
+}
+footer{
+    background-color: chocolate;
+    justify-content: space-between;
+    display: flex;
+}
+table>div{
+    width: 320px;
+    height: 500pxs;
+
+}
